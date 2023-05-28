@@ -1,0 +1,5 @@
+start_time,end_time,weekdays,weekend,peak,off_peak,shoulder,demand_charge,charge_period
+00:00,07:00,TRUE,FALSE,0,0.0428,0,10.2,daily
+07:00,21:00,TRUE,FALSE,0.0685,0,0,10.2,daily
+21:00,07:00,TRUE,FALSE,0,0.0428,0,10.2,daily
+00:00,00:00,FALSE,TRUE,0,0.0428,0,10.2,daily

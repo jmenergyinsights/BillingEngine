@@ -1,0 +1,5 @@
+start_time,end_time,weekdays,weekend,peak,off_peak,shoulder
+00:00,07:00,TRUE,FALSE,0,0.046045,0
+07:00,21:00,TRUE,FALSE,0.103906,0,0
+21:00,07:00,TRUE,FALSE,0,0.046045,0
+00:00,00:00,FALSE,TRUE,0,0.046045,0
